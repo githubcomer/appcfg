@@ -1,1 +1,1 @@
-# appcfg
+configuration for eureka test
